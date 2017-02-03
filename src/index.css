@@ -11,7 +11,7 @@ h2 {
 .contact {
     display: flex;
     border-bottom: 1px solid black;
-    line-height: 64px;
+    line-height: 2.5;
     font-size: 1.5em;
 }
 
